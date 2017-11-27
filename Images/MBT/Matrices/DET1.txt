@@ -1,0 +1,5 @@
+- Pour calculer le déterminant d'une matrice A(3,3), on place les deux premières colonnes à droite de la matrice, puis on calcule la différence de la somme
+```
+det(A) = (a11*a22*a33 + a12*a23*a31 + a13*a21*a32) - (a13*a22*a31 + a11*a23*a32 + a12*a21*a33)
+```
+- /!\ La règle de Sarrus n'est valable que pour les déterminants d'ordre 3 !

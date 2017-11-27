@@ -1,0 +1,5 @@
+- Pour calculer le déterminant d'une matrice A(2,2), on calcule la différence des produits des extrêmes et des moyens:
+
+```
+det(A) = a11*a22 - a21*a12 
+```

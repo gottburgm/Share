@@ -1,0 +1,10 @@
+### Gauss
+- La méthode d'élimination de Gauss-Jordan mène directement à la solution.
+C'est un prolongement de la méthode de la matrice escalier. On transforme alors
+la matrice augmentée en la matrice escalier équivalente, puis on poursuit les
+transformations élémentaires toujours sur les lignes de manière à amener des 0
+aussi bien au dessus qu'au dessous de chacun des 1 qui constitue
+le pivot de chaque ligne de la matrice escalier .
+
+On rappelle que le pivot d'une ligne dans une matrice est le premier élément
+non nul de cette ligne. Dans une matrice escalier, il doit être égal à 1. 

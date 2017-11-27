@@ -1,0 +1,12 @@
+### Méthode de la matrice escalier
+
+- À partir d'un système, on construit la matrice augmentée, puis on effectue des transformations
+élémentaires sur les LIGNES jusqu'à ce que l'on arrive à une matrice escalier permettant de voir la solution. 
+
+- Méthodologie :
+  - Amener à 1 le premier élément de la première colonne,
+  - Amener des 0 dans le reste de la première colonne,
+  - Amener à 1 (ou à 0) le deuxième élément de la deuxième colonne,
+  - Amener des 0 le reste de la deuxième colonne,
+  - Poursuivre de la même manière avec les colonnes suivantes jusqu'à l'obtention de la matrice escalier.
+

@@ -1,0 +1,8 @@
+- En effectuant le produit:
+  ```
+  A A-1 = I
+  ```
+  on aboutit à 3 systèmes d'équations linéaires. Systèmes consistants de trois
+  équations à trois inconnues.
+- On peut donc résoudre ces trois systèmes. Plus rapidement, on procède de la façon suivante:
+- On construit une matrice augmentée [A|I3] d'ordre 3 x 6 suivante : 
