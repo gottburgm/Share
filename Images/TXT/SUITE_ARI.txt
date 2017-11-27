@@ -1,0 +1,17 @@
+Suite arithmétique
+La suite (able ≥ 0) est dite arithmétique si la diñérence entre deux termes consécutifs
+
+quelconques de la suite est constante. Cette différence commune est appelée la raison de la
+suite.
+
+Pour une valeur initiale a0 donnée, une suite arithmétique de raison r satisfait donc l'équa-
+tion de récurrence
+
+ak=ak—z+7‘, ⊺≥↕
+
+et un terme quelconque de la suite peut être calcule' par la formule directe
+
+a —a0+k-r, ∣∁≥∘⊳
+
+ 
+

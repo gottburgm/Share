@@ -1,0 +1,4 @@
+Pour une valeur initiale ao donnée une suite arithmétique de raison r satisfait donc l’équa-
+tion de récurrence
+ak=ak—1+T, ⊺≥↕
+

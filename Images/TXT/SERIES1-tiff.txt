@@ -1,0 +1,14 @@
+Série arithmétique
+Une série arithmétique est la somme de plusieurs termes consécutifs d’une suite arithmé—
+tique.
+Soit (a;c = ao + k - uk ≥ 0) une suite arithmétique de raison r et de terme initial ao, la
+somme de ses n premiers termes est
+⊩↥
+
+n—l ↼ ⊲
++ a 7 e terme + dermer terme
+⊾⋝≺⊓⋝∶∑⋯⊽∶∑⋮≺∅∘⊣−∣∁⋅⊤⋟∶⊩∅∘ 2"1:n-p“mer 2 .
+k- k
+
+ 
+

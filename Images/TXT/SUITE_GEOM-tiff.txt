@@ -1,0 +1,10 @@
+Suite géométrique
+La suite (uk, k ≥ 0) est dite géométrique si le rapport entre deux termes consécutifs quel-
+conques de la suite est constant. Ce rapport commun est appelée la raison de 1a suite‘
+Pour une valeur initiale ao donnée, une suite géométrique de raison r satisfait donc l’équa-
+tion de récurrence
+ak=ak_l-r, ⊺≥↥
+et un terme quelconque de la suite peut être calculé par la formule directe
+
+akzagtrk, ↗∁≥∘⋅
+

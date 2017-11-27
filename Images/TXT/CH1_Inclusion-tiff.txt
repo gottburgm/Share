@@ -1,0 +1,6 @@
+Relation d’inclusion
+L’ensemble B est inclus dans l’ensemble A, et on note B ⊆ A, si tout élément appartenant
+à B appartient également à A ∶
+
+BçA 4:» (VrceB,aceA).
+

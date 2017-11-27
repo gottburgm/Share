@@ -1,0 +1,11 @@
+somme de n premiers entiers positifs
+
+Dans le cas particulier de la suite (a;c : k, k ≥ 1) des entiers positifs (suite arithmétique de
+raison 1), la série associée n’est rien d’autre que la somme des n premiers entiers positifs et ou
+obtient, en spécialisant la formule précédente,
+
+≦⇁∣↕∣≼∥⋝∶↥⊹⊉⊹⋯⊹⊓∶∑∣⋮∶⊔≺∏⊹↕⋟
+
+9
+k:1
+
