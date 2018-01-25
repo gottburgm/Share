@@ -1,7 +1,12 @@
 ## TE4
 
 ### Consignes
-    <p><embed src="PGITF/MBT/Tests/2017-2018/PDF/TE4-CONSIGNES.pdf" width="500" height="375" type="application/pdf">
+
+    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/MBT/Tests/2017-2018/PDF/TE4-CONSIGNES-0.jpg"/></p>
+    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/MBT/Tests/2017-2018/PDF/TE4-CONSIGNES-1.jpg"/></p> 
 
 ### Corrections
-     <p><embed src="PGITF/MBT/Tests/2017-2018/PDF/TE4-CORRECTIONS.pdf" width="500" height="375" type="application/pdf">
+
+     <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/MBT/Tests/2017-2018/PDF/TE4-CORRECTIONS-0.jpg"/></p>
+
+     <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/MBT/Tests/2017-2018/PDF/TE4-CORRECTIONS-1.jpg"/></p>
