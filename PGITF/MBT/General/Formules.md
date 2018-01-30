@@ -34,6 +34,9 @@
     
    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_3.png" /></p>
     
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/Derivation-Theorie.md.png /></p>
+    
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/Formules.png /></p>
 
 ## Cercle Trigonométrique
     
