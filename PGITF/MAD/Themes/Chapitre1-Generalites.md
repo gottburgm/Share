@@ -19,8 +19,9 @@
      
    * ### Définition de la différence
    
-      ```
-                   _
-         A\B = A ∩ B
-      ```
+    ```
+              _
+    A\B = A ∩ B
+
+    ```
       
