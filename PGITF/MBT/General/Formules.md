@@ -59,4 +59,12 @@
   
   * #### 3 Dimensions
   
-  <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/FORMULES_VOLUME.gif" /></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/FORMULES_VOLUME.gif" /></p>
+
+
+## Logarithmes         
+
+   * #### Formules
+
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/General/FORMULES_LOG.png" /></p>
+
