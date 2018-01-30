@@ -19,9 +19,11 @@
      
    * ### Définition de la différence
    
-    ```
-              _
-    A\B = A ∩ B
-
-    ```
-      
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/DIFFERNCE.png" /></p>
+   
+   
+   * ### Différence Symétrique
+   
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/DIFFERENCE_SYMETRIQUE" /></p>
+   
+   
