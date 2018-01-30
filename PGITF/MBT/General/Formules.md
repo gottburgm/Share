@@ -40,3 +40,24 @@
 <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/CERCLE_TRIGONOMETRIQUE.jpg" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/CERCLE_TRIGONOMETRIQUE2.jpg" /></p>
+
+
+
+
+## Logarithmes
+
+   * #### Formules
+
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FORMULES_LOG.png" /></p>
+
+
+## Formules Générales
+
+   * #### 2 Dimensions
+   
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FORMULES_AIRE.gif" /></p>
+   
+   * #### 3 Dimensions
+   
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FORMULES_VOLUME.gif" /></p>
+   
