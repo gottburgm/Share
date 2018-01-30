@@ -12,6 +12,15 @@
      <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/ENSEMBLES.jpg" /></p>
     
 
-   * #### Texte
+   * #### Tableau
     
      <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MAD/Ensembles/ENSEMBLES4.png" /></p>
+     
+     
+   * ### Définition de la différence
+   
+      ```
+                   _
+         A\B = A ∩ B
+      ```
+      
