@@ -55,8 +55,8 @@
 
   * #### 2 Dimensions
   
-   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/FORMULES_AIRE.gif" /></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FORMULES_AIRE.gif" /></p>
   
   * #### 3 Dimensions
   
-  <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/FORMULES_VOLUME.gif" /></p>
+  <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FORMULES_VOLUME.gif" /></p>
