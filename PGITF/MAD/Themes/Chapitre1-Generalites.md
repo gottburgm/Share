@@ -2,16 +2,16 @@
 
 ## Relations
 
-    <IMAGE>https://raw.githubusercontent.com/gottburgm/Share/master/Images/MAD/Ensembles/ENSEMBLES3.png<EIMAGE>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MAD/Ensembles/ENSEMBLES3.png" /></p>
 
     
 ## Formules / Propriétés
     
-    * #### Schématisées
+   * #### Schématisées
     
-    <IMAGE>https://raw.githubusercontent.com/gottburgm/Share/master/Images/ENSEMBLES.jpg<EIMAGE>
+     <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/ENSEMBLES.jpg" /></p>
     
 
-    * #### Texte
+   * #### Texte
     
-    <IMAGE>https://raw.githubusercontent.com/gottburgm/Share/master/Images/MAD/Ensembles/ENSEMBLES4.png<EIMAGE>
+     <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MAD/Ensembles/ENSEMBLES4.png" /></p>
