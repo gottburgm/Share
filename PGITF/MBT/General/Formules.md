@@ -9,28 +9,30 @@
 
 ## Puissances / Racines
    
-   * Puissances
+   * #### Puissances
    
-    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/puissances.png" /></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/puissances.png" /></p>
     
-    * Racines
+   * #### Racines
     
-    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/RACINES.png" /></p>
+     <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/RACINES.png" /></p>
+
+
 ## Dérivées
 
 
-    * Formules
+   * #### Formules
     
-    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_1.png" /></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_1.png" /></p>
     
-    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_0.png" /></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_0.png" /></p>
     
     
-    * Propriétés
+   * #### Propriétés
     
-    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_2.png" /></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_2.png" /></p>
     
-    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_3.png" /></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/DERIVEE_3.png" /></p>
     
 
 ## Cercle Trigonométrique
