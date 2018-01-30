@@ -9,7 +9,7 @@
 
    * #### Fonction: log()
 
-   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FONCTION_LOG.svg" /></p>
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FONCTION_LOG.png" /></p>
 
 
    * #### Fonction: ln()
