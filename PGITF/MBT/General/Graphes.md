@@ -16,3 +16,13 @@
 
    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FONCTION_LN.jpg" /></p>
 
+
+## FOnctions
+
+  * #### Croissante
+  
+  <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/Fonctions/croissance.gif" /></p>
+  
+  * #### Décroissante
+  
+  <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/Fonctions/decroissance.gif" /></p>
