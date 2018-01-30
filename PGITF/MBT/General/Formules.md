@@ -42,7 +42,17 @@
 <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/CERCLE_TRIGONOMETRIQUE2.jpg" /></p>
 
 
+## Angles
 
+
+   * #### Tableau
+    
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/ANGLES.png" /></p>
+    
+   * #### Propriétés
+    
+   <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/Images/MBT/General/ANGLES_PROP.png" /></p>
+    
 
 ## Logarithmes
 
