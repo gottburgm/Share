@@ -117,7 +117,9 @@
         Pour savoir si A ⊆ B, on enlève les accolades seulement à *droite* et les valeurs de gauches doivent être écrites identiques à droite (mais il peut y'en avoir plus à droite)
 
         {2} ⊈     {1;2;3;4;5;6;7}
+        
          2  ⊆     {1;2;3;4;5;6;7}
+        
         {{2}} ⊈     {1;2;3;4;5;6;7} 
    
       ### Table d'appartenance 
@@ -129,9 +131,7 @@
       1. Placer les trois ensembles et en enumérer toutes les combinaisons (binaire)
       2. Effectuer les combinaisons:
          𝐴 ∪ 𝐵 : si 𝐴 _ou/et_ 𝐵 est à 1 -> 1 
-         
          𝐴 ∩ 𝐵 : si 𝐴 _et_ 𝐵 sont à 1 -> 1
-         
          𝐴 \ 𝐵 : on effectue 𝐴 - 𝐵. Si 𝐴=1 et 𝐵 = 0 -> 1 sinon -> 0
    
    
