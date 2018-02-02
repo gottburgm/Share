@@ -109,8 +109,10 @@
 
         Pour savoir si A ∈ B on enlève les accolades des deux côtés, et les valeurs de gauches doivent être écrites identiques à droite (mais il peut y'en avoir plus à droite)
 
-        {2} ∈ {1;2;3;4;5;6;7}
-         2  ∉ {1;2;3;4;5;6;7}
+       {2} ∈ {1;2;3;4;5;6;7}
+       
+       2  ∉ {1;2;3;4;5;6;7}
+       
        {{2}} ∈ {{1};{2};3;4;5;6;7}
 
 
@@ -118,7 +120,7 @@
 
         {2} ⊈     {1;2;3;4;5;6;7}
         
-         2  ⊆     {1;2;3;4;5;6;7}
+        2  ⊆     {1;2;3;4;5;6;7}
         
         {{2}} ⊈     {1;2;3;4;5;6;7} 
    
