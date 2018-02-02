@@ -5,9 +5,9 @@
 
    | Replacement Code |      Value      |
    |------------------|:---------------:|
-   | \<MAD\>         | https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/MAD|
-| \<MBT\>         | https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/MBT|
-| \<INF1\>        | https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/INF1|
+   | <IMG>         | <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/ |
+   | <EIMG>        | "/></p> |
+   | </IMG>        | "/></p> |
 | \^0    | ⁰|
 | \^1    | ¹|
 | \^2    | ²|
@@ -145,7 +145,6 @@
 | tan(    | 𝑡𝑎𝑛(|
 | log(    | 𝑙𝑜𝑔(|
 | ln(    | 𝑙𝑛(|
-| ^-\>    | ⃗|
 | a^->           |𝑎⃗ |
 | b^->           |𝑏⃗ |
 | c^->           |𝑐⃗ |
