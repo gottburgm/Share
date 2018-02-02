@@ -5,9 +5,9 @@
 
    | Replacement Code |      Value      |
    |------------------|:---------------:|
-   | <IMG>         | <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/ |
-   | <EIMG>        | "/></p> |
-   | </IMG>        | "/></p> |
+   | \<IMG\>         | \<p align="center"\>\<img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/ |
+   | \<EIMG\>        | "/\>\</p\> |
+   | \</IMG\>        | "/\>\</p\> |
 | \^0    | ⁰|
 | \^1    | ¹|
 | \^2    | ²|
