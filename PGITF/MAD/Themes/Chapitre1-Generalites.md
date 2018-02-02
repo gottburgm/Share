@@ -103,16 +103,43 @@
 
              <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/PRODUIT_CARTESIEN4.png" /></p>
 
-        - Les accolades
-        
-        {2} <APPARTIENT> {1;2;3;4;5;6;7}
-         2  <APPARTIENT> {1;2;3;4;5;6;7}
-        {2} <INCLUS>     {1;2;3;4;5;6;7}
-         2  <INCLUS>     {1;2;3;4;5;6;7}
+        - Appartenance ∈ et Inclusion ⊆
+
+        *Méthodologie :*
+
+        Pour savoir si A ∈ B on enlève les accolades des deux côtés, et les valeurs de gauches doivent être écrites identiques à droite (mais il peut y'en avoir plus à droite)
+
+        {2} ∈ {1;2;3;4;5;6;7}
+         2  ∉ {1;2;3;4;5;6;7}
+       {{2}} ∈ {{1};{2};3;4;5;6;7}
+
+
+        Pour savoir si A ⊆ B, on enlève les accolades seulement à *droite* et les valeurs de gauches doivent être écrites identiques à droite (mais il peut y'en avoir plus à droite)
+
+        {2} ⊈     {1;2;3;4;5;6;7}
+         2  ⊆     {1;2;3;4;5;6;7}
+        {{2}} ⊈     {1;2;3;4;5;6;7} 
+   
+      ### Table d'appartenance 
+         
+      Soit 𝐴, 𝐵 et 𝐶 trois ensembles (dans un univers 𝛺). Vérifier l'identité suivante au moyen d'une table d'appartenance :
+   
+      <code> 𝐴 \ (𝐵 ∪ 𝐶) = (𝐴 \ 𝐵) ∩ (𝐴 \ 𝐶)<ecode>
+   
+      1. Placer les trois ensembles et en enumérer toutes les combinaisons (binaire)
+      2. Effectuer les combinaisons:
+         𝐴 ∪ 𝐵 : si 𝐴 _ou/et_ 𝐵 est à 1 -> 1 
+         𝐴 ∩ 𝐵 : si 𝐴 _et_ 𝐵 sont à 1 -> 1
+         𝐴 \ 𝐵 : on effectue 𝐴 - 𝐵. Si 𝐴=1 et 𝐵 = 0 -> 1 sinon -> 0
+   
+   
+      <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/1.14-TablesD'appartenance.png" /></p>
+   
+   
+         
 
 ## Puissance D'un Ensemble
 
    * ### Exemples
 
    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/PUISSANCE_ENSEMBLE.png" /></p>
-
