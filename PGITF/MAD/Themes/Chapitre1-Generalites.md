@@ -103,6 +103,12 @@
 
              <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/PRODUIT_CARTESIEN4.png" /></p>
 
+        - Les accolades
+        
+        {2} <APPARTIENT> {1;2;3;4;5;6;7}
+         2  <APPARTIENT> {1;2;3;4;5;6;7}
+        {2} <INCLUS>     {1;2;3;4;5;6;7}
+         2  <INCLUS>     {1;2;3;4;5;6;7}
 
 ## Puissance D'un Ensemble
 
