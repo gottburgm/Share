@@ -74,3 +74,8 @@
    
    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/FORMULES_VOLUME.gif" /></p>
    
+   * #### 4 Parabole:
+   
+   Soit f(x) = $a x^2 + $b x + $c
+   Coordonnées du sommet : (-b/2a ; - <DELTA> / 4a)
+    
