@@ -76,6 +76,6 @@
    
    * #### 4 Parabole:
    
-   Soit f(x) = $a x^2 + $b x + $c
+   Soit 𝑓(𝑥) = 𝑎 x² + 𝑏 x + $c
    Coordonnées du sommet : (-b/2a ; - <DELTA> / 4a)
     
