@@ -1,4 +1,4 @@
-# MAD Chapitre 1
+# MAD Chapitre 1 - Cours
 
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.cours.p2.jpg)
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.cours.p3.jpg)
