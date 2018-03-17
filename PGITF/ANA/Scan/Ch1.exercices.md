@@ -13,4 +13,8 @@
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.exercices.1.5.11-13.jpg)
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.exercices.1.5.14-15.jpg)
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.exercices.1.5.15-16.jpg)
+![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.exercices.1.5.16-17.jpg)
+![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.exercices.1.5.18.jpg)
+![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.exercices.1.5.19-21.jpg)
+![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.exercices.1.5.22-27.jpg)
 
