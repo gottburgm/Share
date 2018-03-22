@@ -1,10 +1,6 @@
 <details>
   
-<summary> 
-
-# MAD Chapitre 1 - Cours 
-
-</summary>
+<summary>MAD Chapitre 1 - Cours </summary>
 
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.cours.p2.jpg)
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch1.cours.p3.jpg)
@@ -23,12 +19,9 @@
 
 </details>
 
-
-<summary>
-
-# MAD Chapitre 2 - Cours
-
-</summary>
+<details>
+  
+<summary># MAD Chapitre 2 - Cours</summary>
 
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch2.cours.p16.jpg)
 ![RAWSCAN Cours](https://github.com/gottburgm/Share/blob/master/PGITF/ANA/Scan/Ch2.cours.p17.jpg)
