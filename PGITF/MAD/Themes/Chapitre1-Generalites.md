@@ -34,8 +34,10 @@
    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/CARDINAL_EX1.png" /></p>
     
    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/CARDINAL_EX2.png" /></p>
-
-
+   
+   <p>  |*A ∪ B*| = |A| + |B| -  |A ∩ B|</p>
+   <p>|*A /_\ B*| = |A| + |B| - 2|A ∩ B|</p>
+   
    * #### Formule(s) Cardinalité De l'Union
     
    <p align="center"><img src="https://raw.githubusercontent.com/gottburgm/Share/master/PGITF/Images/CADINAL_UNION.png" /></p>
